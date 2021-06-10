@@ -1,5 +1,5 @@
 ---
-name: Blueprint
+name: Novel Objective
 about: Significant agenda, stage or event in the progress/development of Recyclero.
 title: ''
 labels: ''
@@ -11,14 +11,14 @@ assignees: ''
 
 <!-- Describe the idea briefly -->
 
-### Feasibility
-
-<!-- Is the idea feasible, if yes, list the requirements -->
-
 ### Outcome
 
 <!-- Describe the intended outcome -->
 
+### Feasibility
+
+<!-- Is the idea feasible, if yes, list the requirements -->
+
 ### How will it work?
 
-<!-- Well-nigh plan for implementing the idea -->
+<!-- Well-nigh plan for implementation -->
